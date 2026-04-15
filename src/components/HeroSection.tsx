@@ -55,8 +55,8 @@ export function HeroSection() {
             <a href="#contact" className="btn-primary">
               Get in Touch
             </a>
-            <a href="#experience" className="btn-outline">
-              View My Work
+            <a href="/Liyema_Mkoliso_CV.docx" download className="btn-outline">
+              Download My CV
             </a>
           </div>
         </div>
