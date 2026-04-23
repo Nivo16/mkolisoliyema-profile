@@ -3,8 +3,10 @@ import { ArrowDown } from "lucide-react";
 import profileImg from "@/assets/profile.jpg";
 
 const roles = [
-  "I am a Full Stack Web Developer",
+  "I am a Full Stack Developer",
+  "I am a Web Developer",
   "I am a Tutor",
+  "I am a Chemistry Graduate",
   "I am a Lab Assistant",
 ];
 
